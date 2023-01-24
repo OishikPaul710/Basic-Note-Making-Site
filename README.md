@@ -8,12 +8,13 @@
 
 ## Running the app
 
-Run the **main.py** script
+Run the **main.py** script from the terminal 
 
 ```
 python main.py
 ```
 
+or simply run **main.py** if you have Python supported IDE installed.
 ## Viewing the app
 
 Go to **http://127.0.0.1:5000**  to see the site.
